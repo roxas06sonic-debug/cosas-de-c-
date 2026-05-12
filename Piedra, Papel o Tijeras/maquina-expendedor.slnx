@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="maquina-expendedor/maquina-expendedor.vcxproj" Id="50f8ed69-8d48-4a97-a1cb-1dae19146212" />
+</Solution>
